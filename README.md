@@ -1,3 +1,5 @@
+--- FRANCAIS ---
+
 Cheat-Web.fr est un site que j'ai développé pour m'exercer au développement web, il est très
 simple et sans cms ni framework pour le moment.
 
