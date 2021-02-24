@@ -17,7 +17,7 @@ have access to all these cheat sheets on the same website.
 
 
 
-![alt tag](https://user-images.githubusercontent.com/74169935/108966414-6d801700-767e-11eb-9644-39a95e89e198.png)
-![alt tag](https://user-images.githubusercontent.com/74169935/108966407-6c4eea00-767e-11eb-8ddb-eb44a8f9246a.png)
-![alt tag](https://user-images.githubusercontent.com/74169935/108966413-6ce78080-767e-11eb-9c11-42d564a339d6.png)
-![alt tag](https://user-images.githubusercontent.com/74169935/108966409-6ce78080-767e-11eb-8b5e-2ce99226f417.png)
+![alt tag](https://user-images.githubusercontent.com/74169935/108967808-3f9bd200-7680-11eb-8b11-308b815abf77.png)
+![alt tag](https://user-images.githubusercontent.com/74169935/108967810-3f9bd200-7680-11eb-978b-863d892071e8.PNG)
+![alt tag](https://user-images.githubusercontent.com/74169935/108967815-40346880-7680-11eb-994d-b6e11acea22b.PNG)
+![alt tag](https://user-images.githubusercontent.com/74169935/108967813-40346880-7680-11eb-9cc5-0f7074c6f348.png)
