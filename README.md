@@ -15,7 +15,8 @@ simple and without cms or framework for the moment.
 The concept is simple : gather a lot of cheat-sheet in french for the centralized ones and so
 have access to all these cheat sheets on the same website.
 
---- SCREENSHOTS ---
+
+
 ![alt tag](https://user-images.githubusercontent.com/74169935/108966414-6d801700-767e-11eb-9644-39a95e89e198.png)
 ![alt tag](https://user-images.githubusercontent.com/74169935/108966407-6c4eea00-767e-11eb-8ddb-eb44a8f9246a.png)
 ![alt tag](https://user-images.githubusercontent.com/74169935/108966413-6ce78080-767e-11eb-9c11-42d564a339d6.png)
