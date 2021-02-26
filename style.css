@@ -193,6 +193,16 @@ li > a:hover {
 button a {
   text-decoration: none;
 }
+
+.svg {
+  display: block;
+  width: 32px;
+  height: 32px;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /* KEYFRAMES */
 @keyframes menuCardHello {
   from {
