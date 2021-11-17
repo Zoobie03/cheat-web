@@ -151,7 +151,6 @@ li > a:hover {
   height: 150px;
   border-radius: 5px 5px 0 0;
   margin: auto;
-  border-bottom: 1px solid #ecec18;
 }
 
 .card-image[img] {
@@ -167,6 +166,8 @@ li > a:hover {
   -webkit-box-direction: normal;
   -ms-flex-direction: column;
   flex-direction: column;
+  border-top: 1px solid #ecec18;
+  padding: 10px;
 }
 
 .card-text {
