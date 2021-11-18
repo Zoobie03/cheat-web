@@ -6,6 +6,7 @@ simple et sans cms ni framework pour le moment.
 Le concepte est simple : réunir plein de cheat-sheet en français pour les centralisées et ainsi
 avoir accès à toutes ces feuilles de triches sur un même site.
 
+Le site est pour l'instant uniquement en HTML / CSS et n'est pas responsive.
 
 --- ENGLISH ---
 
@@ -14,6 +15,7 @@ simple and without cms or framework for the moment.
 
 The concept is simple : gather a lot of cheat-sheet in french for the centralized ones and so
 have access to all these cheat sheets on the same website.
+The site is currently only in HTML / CSS and is not responsive.
 
 
 
